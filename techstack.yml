@@ -1,0 +1,18 @@
+repo_name: mauriliofilho/BRConferences
+report_id: 5165986566011aa98128e0c4c00f1d28
+repo_type: Public
+timestamp: '2023-11-30T15:46:21+00:00'
+requested_by: jchahoud
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
